@@ -14,7 +14,7 @@ Your feedback helps guide the development and improve the app.
 ## How to Request a Feature
 
 1. Check if the feature has already been suggested in the [Issues](https://github.com/atomic-junky/gestureapp-issue-tracker/issues).  
-2. If not, open a **New Issue** and select " Feature Reques".
+2. If not, open a **New Issue** and select "🚀 Feature Request".
 
 ## License
 
