@@ -1,5 +1,6 @@
 name: "🚀 Feature Request"
 description: "I have a specific suggestion for Theos!"
+title: "[Feature Request]: "
 labels: ["Feature Request"]
 body:
   - type: markdown
