@@ -1,0 +1,58 @@
+name: 🐞 Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for taking the time to fill out this bug report!**
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the issue here.
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  
+  - type: textarea
+    id: reproduce-steps
+    attributes:
+      label: Steps to Reproduce
+      description: List the steps required to reproduce the issue.
+      placeholder: |
+        Please provide detailed steps for reproducing the issue.
+
+        1. step 1
+        2. step 2
+        3. you get it...
+      value: "A bug happened!"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: What version of our software are you running?
+      description: You can see the version next to the title on the menu.
+      placeholder: 0.0.1-alpha
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: On which platform did you encounter this issue?
+      multiple: true
+      options:
+        - Windows
+        - Linux
+        - MacOS
+        - Android
+        - iOS
+    validations:
+      required: true

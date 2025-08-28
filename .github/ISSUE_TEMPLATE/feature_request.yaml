@@ -1,0 +1,22 @@
+name: "🚀 Feature Request"
+description: "I have a specific suggestion for Theos!"
+labels: ["Feature Request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thanks for taking the time to suggest a new feature!**
+
+  - type: textarea
+    attributes:
+      label: What is it for?
+      description: A brief description of why you want this feature.
+      placeholder: "e.g. I want to …"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Describe the solution you’d like"
+    validations:
+      required: true

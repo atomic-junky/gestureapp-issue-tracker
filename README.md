@@ -11,14 +11,14 @@ Your feedback helps guide the development and improve the app.
 ## How to Report a Bug
 
 1. Check the [Issues](https://github.com/atomic-junky/gestureapp-issue-tracker/issues) to see if your bug has already been reported.  
-2. If not, create a **New Issue** and select "Bug Report".
+2. If not, create a **New Issue** and select "🐞 Bug Report".
 
 ---
 
 ## How to Request a Feature
 
 1. Check if the feature has already been suggested in the [Issues](https://github.com/atomic-junky/gestureapp-issue-tracker/issues).  
-2. If not, open a **New Issue** and select "Feature Request".
+2. If not, open a **New Issue** and select " Feature Reques".
 
 ---
 
